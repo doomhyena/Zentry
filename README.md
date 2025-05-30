@@ -1,2 +1,3 @@
 # Zentry
-Shhh 🤫🫢
+## Project language: Java
+Shhh 🤫🤫🤫
