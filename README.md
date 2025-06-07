@@ -8,7 +8,7 @@
 - 🧠 **Kvízek** és visszakérdezések minden modul után
 - 🧩 **Mini projektek** példákkal
 - 🗂️ **Java szintaxis referenciák** zsebre vágható formában
-- 🎮 **Pontgyűjtés** és badge rendszer (hamarosan)
+- 🎮 **Pontgyűjtés** és badge rendszer
 
 ## 🛠️ Fejlesztési infók
 
